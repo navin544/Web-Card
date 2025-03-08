@@ -11,7 +11,7 @@ This project showcases web cards featuring characters from "Demon Slayer". Each 
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/@naveen544/web-card-project.git
+    git clone https://github.com/naveen544/web-card-project.git
     ```
 2. Navigate to the project directory:
     ```bash
